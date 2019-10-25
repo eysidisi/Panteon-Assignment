@@ -1,6 +1,3 @@
-# Panteon-Assignment
-Project for Panteon:
-
 How To Play:
 - Create buildings by clicking and dragging into game area
 - Left Click on buildings to see available units
